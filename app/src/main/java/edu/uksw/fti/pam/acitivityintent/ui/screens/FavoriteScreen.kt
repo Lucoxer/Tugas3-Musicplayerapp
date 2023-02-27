@@ -291,7 +291,7 @@ fun FavoriteScreen() {
                 items(1) {
                     Box(
                         modifier = Modifier
-                            .padding(5.dp, end = 20.dp)
+                            .padding(10.dp, end = 20.dp)
                             .aspectRatio(1f)
                             .clip(RoundedCornerShape(5.dp)),
                         contentAlignment = Alignment.Center
@@ -307,7 +307,7 @@ fun FavoriteScreen() {
                 items(1) {
                     Box(
                         modifier = Modifier
-                            .padding(5.dp, end = 20.dp)
+                            .padding(10.dp, end = 20.dp)
                             .aspectRatio(1f)
                             .clip(RoundedCornerShape(5.dp)),
                         contentAlignment = Alignment.Center
@@ -323,7 +323,7 @@ fun FavoriteScreen() {
                 items(1) {
                     Box(
                         modifier = Modifier
-                            .padding(5.dp, end = 20.dp)
+                            .padding(10.dp, end = 20.dp)
                             .aspectRatio(1f)
                             .clip(RoundedCornerShape(5.dp)),
                         contentAlignment = Alignment.Center
@@ -346,7 +346,7 @@ fun FavoriteScreen() {
                 items(3){
                     Box(
                         modifier = Modifier
-                            .padding(5.dp, end = 20.dp, bottom = 20.dp, top = 20.dp)
+                            .padding(10.dp, end = 20.dp, bottom = 20.dp, top = 20.dp)
                             .aspectRatio(1f)
                             .clip(RoundedCornerShape(5.dp)),
                         contentAlignment = Alignment.Center
