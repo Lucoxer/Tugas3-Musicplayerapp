@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PAM Acitivity Intent</string>
+    <string name="login">Ipasok Ang</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+    <string name="SignUp">Magrehistro</string>
+    <string name="confirmpassword">kumpirmahin ang password</string>
+    <string name="DailyMix">araw araw na halo</string>
+    <string name="FirstN">unang pangalan</string>
+    <string name="LastN">apelyido</string>
+    <string name="Following">Pagsunod sa</string>
+    <string name="RecentP">Recent Playing</string>
+    <string name="Library">Library</string>
+    <string name="Kpop">K-Pop</string>
+    <string name="TheBeatlesAlbum">Ang album ng Beatles</string>
+    <string name="VintageS">Vintage na kanta</string>
+    <string name="Download">Download</string>
+
+
+</resources>

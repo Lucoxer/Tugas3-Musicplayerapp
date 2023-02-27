@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Library">Library</string>
+    <string name="Kpop">K-Pop</string>
+    <string name="greet">こんにちは、今日はお元気ですか</string>
+    <string name="YFav">あなたのお気に入り</string>
+    <string name="edm">放電加工</string>
+    <string name="moodboos">ムードボスト</string>
+    <string name="jpop">ジェイポップ</string>
+    <string name="ninetysong">90年代の歌</string>
+    <string name="rap">ラップ</string>
+    <string name="hits">ヒット</string>
+    <string name="reggae">レゲエ</string>
+    <string name="chill">チルソング</string>
+    <string name="pop">ポップ</string>
+</resources>

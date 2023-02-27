@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="DailyMix">Daily Mix</string>
+    <string name="FirstN">First Name</string>
+    <string name="LastN">Last Name</string>
+    <string name="RecentP">Recent Playing</string>
+</resources>

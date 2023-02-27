@@ -1,0 +1,30 @@
+
+<resources>
+
+    <string name="app_name">PAM Acitivity Intent</string>
+    <string name="login">ログイン</string>
+    <string name="password">パスワード</string>
+    <string name="username">ユーザー名</string>
+    <string name="SignUp">サインアップ</string>
+    <string name="FirstN">ファーストネーム</string>
+    <string name="LastN">苗字</string>
+    <string name="confirmpassword">パスワードを認証する</string>
+    <string name="Following">次</string>
+    <string name="RecentP">最近のプレイ</string>
+    <string name="Library">図書館</string>
+    <string name="Kpop">Kポップ</string>
+    <string name="TheBeatlesAlbum">ビートルズのアルバム</string>
+    <string name="Download">ダウンロード</string>
+    <string name="VintageS">ヴィンテージソング</string>
+    <string name="greet">こんにちは、今日はお元気ですか</string>
+    <string name="YFav">あなたのお気に入り</string>
+    <string name="edm">放電加工</string>
+    <string name="moodboos">ムードボスト</string>
+    <string name="jpop">ジェイポップ</string>
+    <string name="ninetysong">90年代の歌</string>
+    <string name="rap">ラップ</string>
+    <string name="hits">ヒット</string>
+    <string name="reggae">レゲエ</string>
+    <string name="chill">チルソング</string>
+    <string name="pop">ポップ</string>
+</resources>
