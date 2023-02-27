@@ -2,15 +2,15 @@
 <resources>
     <string name="Library">Library</string>
     <string name="Kpop">K-Pop</string>
-    <string name="greet">こんにちは、今日はお元気ですか</string>
-    <string name="YFav">あなたのお気に入り</string>
-    <string name="edm">放電加工</string>
-    <string name="moodboos">ムードボスト</string>
-    <string name="jpop">ジェイポップ</string>
-    <string name="ninetysong">90年代の歌</string>
-    <string name="rap">ラップ</string>
-    <string name="hits">ヒット</string>
-    <string name="reggae">レゲエ</string>
-    <string name="chill">チルソング</string>
+    <string name="greet">Hi, How are you today?</string>
+    <string name="YFav">Your Favorite</string>
+    <string name="edm">EDM</string>
+    <string name="moodboos">Moodboost</string>
+    <string name="jpop">J-POP</string>
+    <string name="ninetysong">90\'s Song</string>
+    <string name="rap">RAP</string>
+    <string name="hits">Hits</string>
+    <string name="reggae">Reggae</string>
+    <string name="chill">Chill</string>
     <string name="pop">ポップ</string>
 </resources>
